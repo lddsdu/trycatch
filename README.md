@@ -10,5 +10,5 @@ In order to improve the efficiency of urban monitoring and management and the ut
 
 展示效果(Display of results)
 
-![view](https://gitee.com/lddsdu/trycatch_national_creation/blob/master/images/2ukur-3725m.gif)
+![view](https://gitee.com/lddsdu/trycatch_national_creation/raw/master/images/2ukur-3725m.gif)
 
