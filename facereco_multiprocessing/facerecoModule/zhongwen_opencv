@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+from PIL import Image, ImageDraw, ImageFont
+
+import cv2
+import numpy as np
+
+im = np.ones((100, 100, 3), dtype="uint8")
+im = im * 200
+pil_im = Image.fromarray(im)
+draw = ImageDraw.Draw(pil_im)
+font = ImageFont.truetype("xiaowei.ttf", 20, encoding="utf-8")
+draw.text((0, 0), "字体下载".decode("utf8"), (0, 0, 0), font= font)
+im = np.array(pil_im)
+cv2.imshow("video", im)
+cv2.waitKey(1000)

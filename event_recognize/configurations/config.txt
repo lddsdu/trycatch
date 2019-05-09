@@ -1,0 +1,71 @@
+;event_recognize 配置文件
+
+[strategy]
+net = tc_3d
+;net = tc_3d_lstm_res
+
+[tc_3d]
+pwd = /home/jack/caffe/caffe2/examples/overfitting/
+prototxt = deploy.prototxt
+model = tcnet_iter_180000.caffemodel
+
+[tc_3d_lstm_res]
+pwd = /home/jack/caffe/caffe2/examples/trycatch
+prototxt = deploy_res+lstm.prototxt
+model = trycatch_lstm_iter_200000.caffemodel
+
+[caffe]
+trycatch_path = /home/jack/caffe/caffe2/examples/overfitting
+pycaffe_path = /home/jack/caffe/caffe2/python
+
+[task]
+task = steal
+;task = normal
+
+[mode]
+mode = camera
+;mode = pic
+
+;关于摄像头数据的配置
+[camera_dev]
+camera_url = http://127.0.0.1:8080/?action=snapshot
+;camera_id = 0
+;摄像头的长宽比例的配置文件
+width = 320
+height = 240
+interval = 5
+wonderful = True
+sample_rate = 10
+
+
+;关于flask服务的配置信息
+[server_dev]
+host = 0.0.0.0
+port = 8888
+
+[time]
+timestep=30
+
+[show]
+;show_frame = True
+show_frame = False
+
+[store]
+storepath0=/home/jack/Desktop/cap0
+storepath1=/home/jack/Desktop/cap1
+frames_store = False
+;frames_store = True
+pidfile_path = /home/jack/Desktop/event_recognize_pid.txt
+
+;配置启动相关的服务信息
+[module_start]
+face_reco = True
+openpose = True
+
+;facereco 模块的配置信息
+[facereco_dev]
+folder_path = /home/jack/Desktop/knownpeoples
+
+;各个python库的sys路径配置
+[python_lib]
+cv2_lib = /usr/local/lib/python2.7/dist-packages

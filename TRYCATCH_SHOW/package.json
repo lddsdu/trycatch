@@ -1,0 +1,32 @@
+{
+  "name": "deep_silent",
+  "version": "1.0.0",
+  "description": "get webrtc imgs to deep_learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wengqt/deep_silent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wengqt/deep_silent/issues"
+  },
+  "homepage": "https://github.com/wengqt/deep_silent#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "chokidar": "^2.0.3",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.2",
+    "js-yaml": "^3.11.0",
+    "mysql": "^2.15.0",
+    "socket.io": "^2.1.0",
+    "websocket": "^1.0.25",
+    "ws": "^4.0.0",
+    "yamljs": "^0.3.0"
+  }
+}

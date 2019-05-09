@@ -1,0 +1,329 @@
+Sat, 19 May 2018 14:55:31 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sat, 19 May 2018 14:55:32 event_reco.py[line:85] INFO load the net
+Sat, 19 May 2018 14:55:32 event_reco.py[line:87] INFO camera start
+Sat, 19 May 2018 14:55:32 Camera.py[line:48] INFO the camera already initalized
+Sat, 19 May 2018 14:55:32 Camera.py[line:51] INFO the camera thread start
+Sat, 19 May 2018 14:56:06 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sat, 19 May 2018 14:56:06 stop.py[line:20] INFO will stop the process of 12503.
+Sat, 19 May 2018 14:56:08 event_reco.py[line:70] INFO stop this module
+Sat, 19 May 2018 14:56:18 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sat, 19 May 2018 14:56:18 stop.py[line:23] INFO a error happend when kill the process 12503
+Sat, 19 May 2018 15:24:56 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sat, 19 May 2018 15:24:56 stop.py[line:23] INFO a error happend when kill the process 12503
+Sat, 19 May 2018 15:25:04 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sat, 19 May 2018 15:25:04 stop.py[line:23] INFO a error happend when kill the process 12503
+Sat, 19 May 2018 15:25:10 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sat, 19 May 2018 15:25:11 event_reco.py[line:85] INFO load the net
+Sat, 19 May 2018 15:25:12 event_reco.py[line:87] INFO camera start
+Sat, 19 May 2018 15:25:12 Camera.py[line:48] INFO the camera already initalized
+Sat, 19 May 2018 15:25:12 Camera.py[line:51] INFO the camera thread start
+Sat, 19 May 2018 15:27:03 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sat, 19 May 2018 15:27:03 event_reco.py[line:70] INFO stop this module
+Sat, 19 May 2018 15:27:03 stop.py[line:20] INFO will stop the process of 13696.
+Sat, 19 May 2018 15:29:25 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sat, 19 May 2018 15:29:26 event_reco.py[line:85] INFO load the net
+Sat, 19 May 2018 15:29:27 event_reco.py[line:87] INFO camera start
+Sat, 19 May 2018 15:29:27 Camera.py[line:48] INFO the camera already initalized
+Sat, 19 May 2018 15:29:27 Camera.py[line:51] INFO the camera thread start
+Sat, 19 May 2018 15:31:23 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sat, 19 May 2018 15:31:23 stop.py[line:20] INFO will stop the process of 14182.
+Sat, 19 May 2018 15:31:23 event_reco.py[line:70] INFO stop this module
+Sun, 20 May 2018 13:37:26 cpp.py[line:7] INFO configparser parse the file config.txt config
+Sun, 20 May 2018 13:37:28 event_reco.py[line:85] INFO load the net
+Sun, 20 May 2018 13:37:29 event_reco.py[line:87] INFO camera start
+Sun, 20 May 2018 13:37:29 Camera.py[line:48] INFO the camera already initalized
+Sun, 20 May 2018 13:37:29 Camera.py[line:51] INFO the camera thread start
+Wed, 23 May 2018 20:01:15 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:01:16 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 20:01:17 event_reco.py[line:87] INFO camera start
+Wed, 23 May 2018 20:01:17 Camera.py[line:48] INFO the camera already initalized
+Wed, 23 May 2018 20:01:17 Camera.py[line:51] INFO the camera thread start
+Wed, 23 May 2018 20:01:17 Camera.py[line:101] INFO error handing the url http://127.0.0.1:8080/?action=snapshot
+Wed, 23 May 2018 20:01:17 Camera.py[line:63] WARNING can not load a pic from http://127.0.0.1:8080/?action=snapshot
+Wed, 23 May 2018 20:02:24 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:02:25 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 20:02:25 event_reco.py[line:87] INFO camera start
+Wed, 23 May 2018 20:02:25 Camera.py[line:48] INFO the camera already initalized
+Wed, 23 May 2018 20:02:25 Camera.py[line:51] INFO the camera thread start
+Wed, 23 May 2018 20:04:44 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:04:46 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 20:04:46 event_reco.py[line:87] INFO camera start
+Wed, 23 May 2018 20:04:46 Camera.py[line:48] INFO the camera already initalized
+Wed, 23 May 2018 20:04:46 Camera.py[line:51] INFO the camera thread start
+Wed, 23 May 2018 20:04:52 event_reco.py[line:45] INFO 2018-05-23_20:04:52
+Wed, 23 May 2018 20:04:55 event_reco.py[line:45] INFO 2018-05-23_20:04:55
+Wed, 23 May 2018 20:04:58 event_reco.py[line:45] INFO 2018-05-23_20:04:58
+Wed, 23 May 2018 20:05:01 event_reco.py[line:45] INFO 2018-05-23_20:05:01
+Wed, 23 May 2018 20:05:04 event_reco.py[line:45] INFO 2018-05-23_20:05:04
+Wed, 23 May 2018 20:05:07 event_reco.py[line:45] INFO 2018-05-23_20:05:07
+Wed, 23 May 2018 20:05:11 event_reco.py[line:45] INFO 2018-05-23_20:05:11
+Wed, 23 May 2018 20:05:14 event_reco.py[line:45] INFO 2018-05-23_20:05:14
+Wed, 23 May 2018 20:05:17 event_reco.py[line:45] INFO 2018-05-23_20:05:17
+Wed, 23 May 2018 20:05:20 event_reco.py[line:45] INFO 2018-05-23_20:05:20
+Wed, 23 May 2018 20:05:23 event_reco.py[line:45] INFO 2018-05-23_20:05:23
+Wed, 23 May 2018 20:05:26 event_reco.py[line:45] INFO 2018-05-23_20:05:26
+Wed, 23 May 2018 20:05:29 event_reco.py[line:45] INFO 2018-05-23_20:05:29
+Wed, 23 May 2018 20:05:33 event_reco.py[line:45] INFO 2018-05-23_20:05:33
+Wed, 23 May 2018 20:05:36 event_reco.py[line:45] INFO 2018-05-23_20:05:36
+Wed, 23 May 2018 20:05:39 event_reco.py[line:45] INFO 2018-05-23_20:05:39
+Wed, 23 May 2018 20:05:42 event_reco.py[line:45] INFO 2018-05-23_20:05:42
+Wed, 23 May 2018 20:05:46 event_reco.py[line:45] INFO 2018-05-23_20:05:46
+Wed, 23 May 2018 20:05:49 event_reco.py[line:45] INFO 2018-05-23_20:05:49
+Wed, 23 May 2018 20:05:52 event_reco.py[line:45] INFO 2018-05-23_20:05:52
+Wed, 23 May 2018 20:05:55 event_reco.py[line:45] INFO 2018-05-23_20:05:55
+Wed, 23 May 2018 20:05:58 event_reco.py[line:45] INFO 2018-05-23_20:05:58
+Wed, 23 May 2018 20:06:02 event_reco.py[line:45] INFO 2018-05-23_20:06:02
+Wed, 23 May 2018 20:06:05 event_reco.py[line:45] INFO 2018-05-23_20:06:05
+Wed, 23 May 2018 20:06:09 event_reco.py[line:45] INFO 2018-05-23_20:06:09
+Wed, 23 May 2018 20:06:12 event_reco.py[line:45] INFO 2018-05-23_20:06:12
+Wed, 23 May 2018 20:06:15 event_reco.py[line:45] INFO 2018-05-23_20:06:15
+Wed, 23 May 2018 20:06:19 event_reco.py[line:45] INFO 2018-05-23_20:06:19
+Wed, 23 May 2018 20:06:22 event_reco.py[line:45] INFO 2018-05-23_20:06:22
+Wed, 23 May 2018 20:06:25 event_reco.py[line:45] INFO 2018-05-23_20:06:25
+Wed, 23 May 2018 20:06:28 event_reco.py[line:45] INFO 2018-05-23_20:06:28
+Wed, 23 May 2018 20:06:31 event_reco.py[line:45] INFO 2018-05-23_20:06:31
+Wed, 23 May 2018 20:06:34 event_reco.py[line:45] INFO 2018-05-23_20:06:34
+Wed, 23 May 2018 20:06:38 event_reco.py[line:45] INFO 2018-05-23_20:06:38
+Wed, 23 May 2018 20:06:41 event_reco.py[line:45] INFO 2018-05-23_20:06:41
+Wed, 23 May 2018 20:06:45 event_reco.py[line:45] INFO 2018-05-23_20:06:45
+Wed, 23 May 2018 20:06:48 event_reco.py[line:45] INFO 2018-05-23_20:06:48
+Wed, 23 May 2018 20:06:51 event_reco.py[line:45] INFO 2018-05-23_20:06:51
+Wed, 23 May 2018 20:06:54 event_reco.py[line:45] INFO 2018-05-23_20:06:54
+Wed, 23 May 2018 20:06:58 event_reco.py[line:45] INFO 2018-05-23_20:06:58
+Wed, 23 May 2018 20:07:01 event_reco.py[line:45] INFO 2018-05-23_20:07:01
+Wed, 23 May 2018 20:07:04 event_reco.py[line:45] INFO 2018-05-23_20:07:04
+Wed, 23 May 2018 20:07:08 event_reco.py[line:45] INFO 2018-05-23_20:07:08
+Wed, 23 May 2018 20:07:11 event_reco.py[line:45] INFO 2018-05-23_20:07:11
+Wed, 23 May 2018 20:07:14 event_reco.py[line:45] INFO 2018-05-23_20:07:14
+Wed, 23 May 2018 20:07:17 event_reco.py[line:45] INFO 2018-05-23_20:07:17
+Wed, 23 May 2018 20:07:20 event_reco.py[line:45] INFO 2018-05-23_20:07:20
+Wed, 23 May 2018 20:07:23 event_reco.py[line:45] INFO 2018-05-23_20:07:23
+Wed, 23 May 2018 20:07:27 event_reco.py[line:45] INFO 2018-05-23_20:07:27
+Wed, 23 May 2018 20:07:30 event_reco.py[line:45] INFO 2018-05-23_20:07:30
+Wed, 23 May 2018 20:07:33 event_reco.py[line:45] INFO 2018-05-23_20:07:33
+Wed, 23 May 2018 20:07:36 event_reco.py[line:45] INFO 2018-05-23_20:07:36
+Wed, 23 May 2018 20:07:39 event_reco.py[line:45] INFO 2018-05-23_20:07:39
+Wed, 23 May 2018 20:07:42 event_reco.py[line:45] INFO 2018-05-23_20:07:42
+Wed, 23 May 2018 20:07:45 event_reco.py[line:45] INFO 2018-05-23_20:07:45
+Wed, 23 May 2018 20:07:49 event_reco.py[line:45] INFO 2018-05-23_20:07:49
+Wed, 23 May 2018 20:07:52 event_reco.py[line:45] INFO 2018-05-23_20:07:52
+Wed, 23 May 2018 20:07:55 event_reco.py[line:45] INFO 2018-05-23_20:07:55
+Wed, 23 May 2018 20:07:58 event_reco.py[line:45] INFO 2018-05-23_20:07:58
+Wed, 23 May 2018 20:08:01 event_reco.py[line:45] INFO 2018-05-23_20:08:01
+Wed, 23 May 2018 20:08:04 event_reco.py[line:45] INFO 2018-05-23_20:08:04
+Wed, 23 May 2018 20:08:07 event_reco.py[line:45] INFO 2018-05-23_20:08:07
+Wed, 23 May 2018 20:08:10 event_reco.py[line:45] INFO 2018-05-23_20:08:10
+Wed, 23 May 2018 20:08:14 event_reco.py[line:45] INFO 2018-05-23_20:08:14
+Wed, 23 May 2018 20:08:18 event_reco.py[line:45] INFO 2018-05-23_20:08:18
+Wed, 23 May 2018 20:08:21 event_reco.py[line:45] INFO 2018-05-23_20:08:21
+Wed, 23 May 2018 20:08:24 event_reco.py[line:45] INFO 2018-05-23_20:08:24
+Wed, 23 May 2018 20:08:27 event_reco.py[line:45] INFO 2018-05-23_20:08:27
+Wed, 23 May 2018 20:08:30 event_reco.py[line:45] INFO 2018-05-23_20:08:30
+Wed, 23 May 2018 20:08:33 event_reco.py[line:45] INFO 2018-05-23_20:08:33
+Wed, 23 May 2018 20:08:36 event_reco.py[line:45] INFO 2018-05-23_20:08:36
+Wed, 23 May 2018 20:08:39 event_reco.py[line:45] INFO 2018-05-23_20:08:39
+Wed, 23 May 2018 20:08:42 event_reco.py[line:45] INFO 2018-05-23_20:08:42
+Wed, 23 May 2018 20:08:46 event_reco.py[line:45] INFO 2018-05-23_20:08:46
+Wed, 23 May 2018 20:08:49 event_reco.py[line:45] INFO 2018-05-23_20:08:49
+Wed, 23 May 2018 20:08:52 event_reco.py[line:45] INFO 2018-05-23_20:08:52
+Wed, 23 May 2018 20:08:55 event_reco.py[line:45] INFO 2018-05-23_20:08:55
+Wed, 23 May 2018 20:08:58 event_reco.py[line:45] INFO 2018-05-23_20:08:58
+Wed, 23 May 2018 20:09:01 event_reco.py[line:45] INFO 2018-05-23_20:09:01
+Wed, 23 May 2018 20:09:04 event_reco.py[line:45] INFO 2018-05-23_20:09:04
+Wed, 23 May 2018 20:09:08 event_reco.py[line:45] INFO 2018-05-23_20:09:08
+Wed, 23 May 2018 20:09:11 event_reco.py[line:45] INFO 2018-05-23_20:09:11
+Wed, 23 May 2018 20:09:14 event_reco.py[line:45] INFO 2018-05-23_20:09:14
+Wed, 23 May 2018 20:09:18 event_reco.py[line:45] INFO 2018-05-23_20:09:18
+Wed, 23 May 2018 20:09:21 event_reco.py[line:45] INFO 2018-05-23_20:09:21
+Wed, 23 May 2018 20:09:24 event_reco.py[line:45] INFO 2018-05-23_20:09:24
+Wed, 23 May 2018 20:09:27 event_reco.py[line:45] INFO 2018-05-23_20:09:27
+Wed, 23 May 2018 20:09:30 event_reco.py[line:45] INFO 2018-05-23_20:09:30
+Wed, 23 May 2018 20:09:33 event_reco.py[line:45] INFO 2018-05-23_20:09:33
+Wed, 23 May 2018 20:09:36 event_reco.py[line:45] INFO 2018-05-23_20:09:36
+Wed, 23 May 2018 20:09:39 event_reco.py[line:45] INFO 2018-05-23_20:09:39
+Wed, 23 May 2018 20:09:43 event_reco.py[line:45] INFO 2018-05-23_20:09:43
+Wed, 23 May 2018 20:09:46 event_reco.py[line:45] INFO 2018-05-23_20:09:46
+Wed, 23 May 2018 20:09:49 event_reco.py[line:45] INFO 2018-05-23_20:09:49
+Wed, 23 May 2018 20:09:52 event_reco.py[line:45] INFO 2018-05-23_20:09:52
+Wed, 23 May 2018 20:09:55 event_reco.py[line:45] INFO 2018-05-23_20:09:55
+Wed, 23 May 2018 20:09:58 event_reco.py[line:45] INFO 2018-05-23_20:09:58
+Wed, 23 May 2018 20:10:01 event_reco.py[line:45] INFO 2018-05-23_20:10:01
+Wed, 23 May 2018 20:10:04 event_reco.py[line:45] INFO 2018-05-23_20:10:04
+Wed, 23 May 2018 20:10:08 event_reco.py[line:45] INFO 2018-05-23_20:10:08
+Wed, 23 May 2018 20:10:11 event_reco.py[line:45] INFO 2018-05-23_20:10:11
+Wed, 23 May 2018 20:10:14 event_reco.py[line:45] INFO 2018-05-23_20:10:14
+Wed, 23 May 2018 20:10:17 event_reco.py[line:45] INFO 2018-05-23_20:10:17
+Wed, 23 May 2018 20:10:20 event_reco.py[line:45] INFO 2018-05-23_20:10:20
+Wed, 23 May 2018 20:10:23 event_reco.py[line:45] INFO 2018-05-23_20:10:23
+Wed, 23 May 2018 20:10:26 event_reco.py[line:45] INFO 2018-05-23_20:10:26
+Wed, 23 May 2018 20:10:29 event_reco.py[line:45] INFO 2018-05-23_20:10:29
+Wed, 23 May 2018 20:10:32 event_reco.py[line:45] INFO 2018-05-23_20:10:32
+Wed, 23 May 2018 20:10:36 event_reco.py[line:45] INFO 2018-05-23_20:10:36
+Wed, 23 May 2018 20:10:39 event_reco.py[line:45] INFO 2018-05-23_20:10:39
+Wed, 23 May 2018 20:10:42 event_reco.py[line:45] INFO 2018-05-23_20:10:42
+Wed, 23 May 2018 20:10:45 event_reco.py[line:45] INFO 2018-05-23_20:10:45
+Wed, 23 May 2018 20:10:48 event_reco.py[line:45] INFO 2018-05-23_20:10:48
+Wed, 23 May 2018 20:10:51 event_reco.py[line:45] INFO 2018-05-23_20:10:51
+Wed, 23 May 2018 20:10:54 event_reco.py[line:45] INFO 2018-05-23_20:10:54
+Wed, 23 May 2018 20:10:57 event_reco.py[line:45] INFO 2018-05-23_20:10:57
+Wed, 23 May 2018 20:11:01 event_reco.py[line:45] INFO 2018-05-23_20:11:01
+Wed, 23 May 2018 20:11:04 event_reco.py[line:45] INFO 2018-05-23_20:11:04
+Wed, 23 May 2018 20:11:07 event_reco.py[line:45] INFO 2018-05-23_20:11:07
+Wed, 23 May 2018 20:11:10 event_reco.py[line:45] INFO 2018-05-23_20:11:10
+Wed, 23 May 2018 20:11:13 event_reco.py[line:45] INFO 2018-05-23_20:11:13
+Wed, 23 May 2018 20:11:16 event_reco.py[line:45] INFO 2018-05-23_20:11:16
+Wed, 23 May 2018 20:11:19 event_reco.py[line:45] INFO 2018-05-23_20:11:19
+Wed, 23 May 2018 20:11:22 event_reco.py[line:45] INFO 2018-05-23_20:11:22
+Wed, 23 May 2018 20:11:26 event_reco.py[line:45] INFO 2018-05-23_20:11:26
+Wed, 23 May 2018 20:11:29 event_reco.py[line:45] INFO 2018-05-23_20:11:29
+Wed, 23 May 2018 20:11:32 event_reco.py[line:45] INFO 2018-05-23_20:11:32
+Wed, 23 May 2018 20:11:35 event_reco.py[line:45] INFO 2018-05-23_20:11:35
+Wed, 23 May 2018 20:11:38 event_reco.py[line:45] INFO 2018-05-23_20:11:38
+Wed, 23 May 2018 20:11:41 event_reco.py[line:45] INFO 2018-05-23_20:11:41
+Wed, 23 May 2018 20:11:44 event_reco.py[line:45] INFO 2018-05-23_20:11:44
+Wed, 23 May 2018 20:11:48 event_reco.py[line:45] INFO 2018-05-23_20:11:48
+Wed, 23 May 2018 20:11:51 event_reco.py[line:45] INFO 2018-05-23_20:11:51
+Wed, 23 May 2018 20:11:54 event_reco.py[line:45] INFO 2018-05-23_20:11:54
+Wed, 23 May 2018 20:11:57 event_reco.py[line:45] INFO 2018-05-23_20:11:57
+Wed, 23 May 2018 20:12:00 event_reco.py[line:45] INFO 2018-05-23_20:12:00
+Wed, 23 May 2018 20:12:03 event_reco.py[line:45] INFO 2018-05-23_20:12:03
+Wed, 23 May 2018 20:12:06 event_reco.py[line:45] INFO 2018-05-23_20:12:06
+Wed, 23 May 2018 20:12:10 event_reco.py[line:45] INFO 2018-05-23_20:12:10
+Wed, 23 May 2018 20:12:13 event_reco.py[line:45] INFO 2018-05-23_20:12:13
+Wed, 23 May 2018 20:12:16 event_reco.py[line:45] INFO 2018-05-23_20:12:16
+Wed, 23 May 2018 20:12:19 event_reco.py[line:45] INFO 2018-05-23_20:12:19
+Wed, 23 May 2018 20:12:22 event_reco.py[line:45] INFO 2018-05-23_20:12:22
+Wed, 23 May 2018 20:12:25 event_reco.py[line:45] INFO 2018-05-23_20:12:25
+Wed, 23 May 2018 20:12:28 event_reco.py[line:45] INFO 2018-05-23_20:12:28
+Wed, 23 May 2018 20:12:31 event_reco.py[line:45] INFO 2018-05-23_20:12:31
+Wed, 23 May 2018 20:12:35 event_reco.py[line:45] INFO 2018-05-23_20:12:35
+Wed, 23 May 2018 20:12:38 event_reco.py[line:45] INFO 2018-05-23_20:12:38
+Wed, 23 May 2018 20:12:41 event_reco.py[line:45] INFO 2018-05-23_20:12:41
+Wed, 23 May 2018 20:12:44 event_reco.py[line:45] INFO 2018-05-23_20:12:44
+Wed, 23 May 2018 20:12:47 event_reco.py[line:45] INFO 2018-05-23_20:12:47
+Wed, 23 May 2018 20:12:50 event_reco.py[line:45] INFO 2018-05-23_20:12:50
+Wed, 23 May 2018 20:12:53 event_reco.py[line:45] INFO 2018-05-23_20:12:53
+Wed, 23 May 2018 20:12:56 event_reco.py[line:45] INFO 2018-05-23_20:12:56
+Wed, 23 May 2018 20:13:00 event_reco.py[line:45] INFO 2018-05-23_20:13:00
+Wed, 23 May 2018 20:13:03 event_reco.py[line:45] INFO 2018-05-23_20:13:03
+Wed, 23 May 2018 20:13:06 event_reco.py[line:45] INFO 2018-05-23_20:13:06
+Wed, 23 May 2018 20:13:09 event_reco.py[line:45] INFO 2018-05-23_20:13:09
+Wed, 23 May 2018 20:13:12 event_reco.py[line:45] INFO 2018-05-23_20:13:12
+Wed, 23 May 2018 20:13:15 event_reco.py[line:45] INFO 2018-05-23_20:13:15
+Wed, 23 May 2018 20:13:18 event_reco.py[line:45] INFO 2018-05-23_20:13:18
+Wed, 23 May 2018 20:13:21 event_reco.py[line:45] INFO 2018-05-23_20:13:21
+Wed, 23 May 2018 20:13:24 event_reco.py[line:45] INFO 2018-05-23_20:13:24
+Wed, 23 May 2018 20:13:28 event_reco.py[line:45] INFO 2018-05-23_20:13:28
+Wed, 23 May 2018 20:13:31 event_reco.py[line:45] INFO 2018-05-23_20:13:31
+Wed, 23 May 2018 20:13:34 event_reco.py[line:45] INFO 2018-05-23_20:13:34
+Wed, 23 May 2018 20:13:37 event_reco.py[line:45] INFO 2018-05-23_20:13:37
+Wed, 23 May 2018 20:13:40 event_reco.py[line:45] INFO 2018-05-23_20:13:40
+Wed, 23 May 2018 20:13:43 event_reco.py[line:45] INFO 2018-05-23_20:13:43
+Wed, 23 May 2018 20:13:46 event_reco.py[line:45] INFO 2018-05-23_20:13:46
+Wed, 23 May 2018 20:53:01 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:53:02 event_reco.py[line:84] INFO load the net
+Wed, 23 May 2018 20:53:13 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:53:13 event_reco.py[line:84] INFO load the net
+Wed, 23 May 2018 20:53:43 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:53:43 event_reco.py[line:84] INFO load the net
+Wed, 23 May 2018 20:54:39 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:54:39 event_reco.py[line:84] INFO load the net
+Wed, 23 May 2018 20:56:26 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:56:27 event_reco.py[line:84] INFO load the net
+Wed, 23 May 2018 20:57:20 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:57:21 event_reco.py[line:84] INFO load the net
+Wed, 23 May 2018 20:58:24 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:58:24 event_reco.py[line:84] INFO load the net
+Wed, 23 May 2018 20:58:25 event_reco.py[line:111] INFO camera start
+Wed, 23 May 2018 20:58:25 Camera.py[line:48] INFO the camera already initalized
+Wed, 23 May 2018 20:58:25 Camera.py[line:51] INFO the camera thread start
+Wed, 23 May 2018 20:58:30 event_reco.py[line:44] INFO 2018-05-23_20:58:30
+Wed, 23 May 2018 20:58:35 event_reco.py[line:69] INFO stop this module
+Wed, 23 May 2018 20:59:33 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 20:59:35 event_reco.py[line:84] INFO load the net
+Wed, 23 May 2018 21:01:55 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:01:55 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 21:01:56 event_reco.py[line:109] INFO camera start
+Wed, 23 May 2018 21:01:56 Camera.py[line:48] INFO the camera already initalized
+Wed, 23 May 2018 21:01:56 Camera.py[line:51] INFO the camera thread start
+Wed, 23 May 2018 21:02:01 event_reco.py[line:45] INFO 2018-05-23_21:02:01
+Wed, 23 May 2018 21:02:05 event_reco.py[line:45] INFO 2018-05-23_21:02:05
+Wed, 23 May 2018 21:02:08 event_reco.py[line:45] INFO 2018-05-23_21:02:08
+Wed, 23 May 2018 21:02:11 event_reco.py[line:45] INFO 2018-05-23_21:02:11
+Wed, 23 May 2018 21:02:14 event_reco.py[line:45] INFO 2018-05-23_21:02:14
+Wed, 23 May 2018 21:02:17 event_reco.py[line:45] INFO 2018-05-23_21:02:17
+Wed, 23 May 2018 21:02:20 event_reco.py[line:45] INFO 2018-05-23_21:02:20
+Wed, 23 May 2018 21:03:38 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:03:39 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 21:03:57 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:03:57 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 21:04:32 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:04:32 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 21:04:55 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:04:55 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 21:04:56 event_reco.py[line:109] INFO camera start
+Wed, 23 May 2018 21:04:56 Camera.py[line:48] INFO the camera already initalized
+Wed, 23 May 2018 21:04:56 Camera.py[line:51] INFO the camera thread start
+Wed, 23 May 2018 21:05:00 event_reco.py[line:70] INFO stop this module
+Wed, 23 May 2018 21:05:09 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:05:10 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 21:06:16 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:06:16 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 21:06:17 event_reco.py[line:109] INFO camera start
+Wed, 23 May 2018 21:06:17 Camera.py[line:48] INFO the camera already initalized
+Wed, 23 May 2018 21:06:17 Camera.py[line:51] INFO the camera thread start
+Wed, 23 May 2018 21:06:23 event_reco.py[line:45] INFO 2018-05-23_21:06:23
+Wed, 23 May 2018 21:06:31 event_reco.py[line:45] INFO 2018-05-23_21:06:31
+Wed, 23 May 2018 21:06:35 event_reco.py[line:45] INFO 2018-05-23_21:06:35
+Wed, 23 May 2018 21:06:39 event_reco.py[line:45] INFO 2018-05-23_21:06:39
+Wed, 23 May 2018 21:06:43 event_reco.py[line:45] INFO 2018-05-23_21:06:43
+Wed, 23 May 2018 21:06:46 event_reco.py[line:45] INFO 2018-05-23_21:06:46
+Wed, 23 May 2018 21:06:50 event_reco.py[line:45] INFO 2018-05-23_21:06:50
+Wed, 23 May 2018 21:06:54 event_reco.py[line:45] INFO 2018-05-23_21:06:54
+Wed, 23 May 2018 21:06:58 event_reco.py[line:45] INFO 2018-05-23_21:06:58
+Wed, 23 May 2018 21:07:02 event_reco.py[line:45] INFO 2018-05-23_21:07:02
+Wed, 23 May 2018 21:07:06 event_reco.py[line:45] INFO 2018-05-23_21:07:06
+Wed, 23 May 2018 21:07:10 event_reco.py[line:45] INFO 2018-05-23_21:07:10
+Wed, 23 May 2018 21:07:14 event_reco.py[line:45] INFO 2018-05-23_21:07:14
+Wed, 23 May 2018 21:07:18 event_reco.py[line:45] INFO 2018-05-23_21:07:18
+Wed, 23 May 2018 21:07:22 event_reco.py[line:45] INFO 2018-05-23_21:07:22
+Wed, 23 May 2018 21:07:26 event_reco.py[line:45] INFO 2018-05-23_21:07:26
+Wed, 23 May 2018 21:07:30 event_reco.py[line:45] INFO 2018-05-23_21:07:30
+Wed, 23 May 2018 21:07:34 event_reco.py[line:45] INFO 2018-05-23_21:07:34
+Wed, 23 May 2018 21:07:37 event_reco.py[line:45] INFO 2018-05-23_21:07:37
+Wed, 23 May 2018 21:07:41 event_reco.py[line:45] INFO 2018-05-23_21:07:41
+Wed, 23 May 2018 21:07:45 event_reco.py[line:45] INFO 2018-05-23_21:07:45
+Wed, 23 May 2018 21:07:49 event_reco.py[line:45] INFO 2018-05-23_21:07:49
+Wed, 23 May 2018 21:07:53 event_reco.py[line:45] INFO 2018-05-23_21:07:53
+Wed, 23 May 2018 21:07:57 event_reco.py[line:45] INFO 2018-05-23_21:07:57
+Wed, 23 May 2018 21:08:01 event_reco.py[line:45] INFO 2018-05-23_21:08:01
+Wed, 23 May 2018 21:08:05 event_reco.py[line:45] INFO 2018-05-23_21:08:05
+Wed, 23 May 2018 21:08:09 event_reco.py[line:45] INFO 2018-05-23_21:08:09
+Wed, 23 May 2018 21:08:13 event_reco.py[line:45] INFO 2018-05-23_21:08:13
+Wed, 23 May 2018 21:08:16 event_reco.py[line:45] INFO 2018-05-23_21:08:16
+Wed, 23 May 2018 21:08:20 event_reco.py[line:45] INFO 2018-05-23_21:08:20
+Wed, 23 May 2018 21:08:24 event_reco.py[line:45] INFO 2018-05-23_21:08:24
+Wed, 23 May 2018 21:08:28 event_reco.py[line:45] INFO 2018-05-23_21:08:28
+Wed, 23 May 2018 21:08:32 event_reco.py[line:45] INFO 2018-05-23_21:08:32
+Wed, 23 May 2018 21:08:36 event_reco.py[line:45] INFO 2018-05-23_21:08:36
+Wed, 23 May 2018 21:08:41 event_reco.py[line:45] INFO 2018-05-23_21:08:41
+Wed, 23 May 2018 21:08:46 event_reco.py[line:45] INFO 2018-05-23_21:08:46
+Wed, 23 May 2018 21:08:49 event_reco.py[line:45] INFO 2018-05-23_21:08:49
+Wed, 23 May 2018 21:08:54 event_reco.py[line:45] INFO 2018-05-23_21:08:54
+Wed, 23 May 2018 21:08:58 event_reco.py[line:45] INFO 2018-05-23_21:08:58
+Wed, 23 May 2018 21:09:02 event_reco.py[line:45] INFO 2018-05-23_21:09:02
+Wed, 23 May 2018 21:09:07 event_reco.py[line:45] INFO 2018-05-23_21:09:07
+Wed, 23 May 2018 21:09:11 event_reco.py[line:45] INFO 2018-05-23_21:09:11
+Wed, 23 May 2018 21:09:15 event_reco.py[line:45] INFO 2018-05-23_21:09:15
+Wed, 23 May 2018 21:09:19 event_reco.py[line:70] INFO stop this module
+Wed, 23 May 2018 21:10:32 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:10:46 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:10:47 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 21:10:48 event_reco.py[line:108] INFO camera start
+Wed, 23 May 2018 21:10:48 Camera.py[line:48] INFO the camera already initalized
+Wed, 23 May 2018 21:10:48 Camera.py[line:51] INFO the camera thread start
+Wed, 23 May 2018 21:18:53 cpp.py[line:7] INFO configparser parse the file config.txt config
+Wed, 23 May 2018 21:18:54 event_reco.py[line:85] INFO load the net
+Wed, 23 May 2018 21:18:55 event_reco.py[line:108] INFO camera start
+Wed, 23 May 2018 21:18:55 Camera.py[line:48] INFO the camera already initalized
+Wed, 23 May 2018 21:18:55 Camera.py[line:51] INFO the camera thread start

@@ -1,0 +1,42 @@
+;face_recognize module 配置文件
+
+;关于摄像头数据的配置
+[camera_dev]
+;camera_id = 0
+;<<<<<<< HEAD
+;camera_id = http://127.0.0.1:8080/?action=stream
+;camera_id = http://127.0.0.1:8899/slowstream
+;=======
+;camera_id = http://192.168.43.8:8080/?action=stream
+camera_id = http://127.0.0.1:8080/?action=stream
+snapshot = http://127.0.0.1:8080/?action=snapshot
+;>>>>>>> temp
+;摄像头的长宽比例的配置
+width = 640
+height = 480
+wonderful = True
+
+[store]
+pidfile_path = /home/intel/files/face_recognize_pid.txt
+
+[folder]
+listen_f = /home/intel/files/listen/
+;listen_f = /home/intel/TRYCATCH_SHOW/out/img
+target_f = /home/intel/files/target/
+ser_f = /home/intel/files/ser/
+;关于flask服务的配置信息
+[server_dev]
+host = 0.0.0.0
+port = 8888
+
+;facereco 模块的配置信息
+[facereco_dev]
+folder_path = /home/intel/files/knownpeoples
+
+[show]
+show_frame = False
+;show_frame = True
+
+;各个python库的sys路径配置
+[python_lib]
+cv2_lib = /usr/local/lib/python2.7/dist-packages
