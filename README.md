@@ -6,4 +6,4 @@
 - Introduction
 In order to improve the efficiency of urban monitoring and management and the utilization of information, under the current situation of increasing computer computing power and the popularity of surveillance cameras, we designed this anti-rolling aid tool that can be used for intelligent city monitoring and management. Its main functions can be divided into Recognize alarms for plagiarism, multi-person pose estimation and statistical analysis based on these valid data, such as changes in crowd flow in automatic statistics videos, and automatic analysis and recording of abnormal events. Taking into account the powerful self-learning ability of the neural network, it has added the function of fall recognition, which has a wider range of application scenarios in the family.
 
-![](https://gitee.com/lddsdu/trycatch_national_creation/blob/master/images/2ukur-3725m.gif)
+![view](https://gitee.com/lddsdu/trycatch_national_creation/blob/master/images/2ukur-3725m.gif)
