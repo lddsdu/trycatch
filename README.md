@@ -7,7 +7,24 @@
 In order to improve the efficiency of urban monitoring and management and the utilization of information, under the current situation of increasing computer computing power and the popularity of surveillance cameras, we designed this anti-rolling aid tool that can be used for intelligent city monitoring and management. Its main functions can be divided into Recognize alarms for plagiarism, multi-person pose estimation and statistical analysis based on these valid data, such as changes in crowd flow in automatic statistics videos, and automatic analysis and recording of abnormal events. Taking into account the powerful self-learning ability of the neural network, it has added the function of fall recognition, which has a wider range of application scenarios in the family.
 
 
-
-展示效果(Display of results)
+- 展示效果(Display of results)
 
 <div align=center><img src="https://gitee.com/lddsdu/trycatch_national_creation/raw/master/images/2ukur-3725m.gif"><div>
+
+
+- 环境要求
+- 硬件
+内存:　＞ 8G
+显卡:　train GTX1080及性能以上的显卡, test 1060及性能以上的显卡
+
+- 软件
+操作系统:　ubuntu 16.04
+nvidia驱动: 396.37
+python: 2.0
+caffe:　1.0
+
+- 数据
+可以通过该链接[百度网盘-try_catch_steal_dataset](https://pan.baidu.com/s/1Fd-klUnvrMqdzWtdN9vTXQ)下载，数据已全部开源
+
+- concat us
+mail: 17853137232@163.com
