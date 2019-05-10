@@ -13,18 +13,27 @@ In order to improve the efficiency of urban monitoring and management and the ut
 
 
 - 环境要求
+
 - 硬件
+
 内存:　＞ 8G
+
 显卡:　train GTX1080及性能以上的显卡, test 1060及性能以上的显卡
 
 - 软件
+
 操作系统:　ubuntu 16.04
+
 nvidia驱动: 396.37
+
 python: 2.0
+
 caffe:　1.0
 
 - 数据
+
 可以通过该链接[百度网盘-try_catch_steal_dataset](https://pan.baidu.com/s/1Fd-klUnvrMqdzWtdN9vTXQ)下载，数据已全部开源
 
 - concat us
+
 mail: 17853137232@163.com
