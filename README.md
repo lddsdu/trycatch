@@ -12,3 +12,4 @@ In order to improve the efficiency of urban monitoring and management and the ut
 
 ![view](https://gitee.com/lddsdu/trycatch_national_creation/raw/master/images/2ukur-3725m.gif)
 
+<img src="https://gitee.com/lddsdu/trycatch_national_creation/raw/master/images/2ukur-3725m.gif">
