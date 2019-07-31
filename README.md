@@ -24,7 +24,7 @@ python: 2.0
 
 caffe:　1.0
 
-#### concat us
+#### contect us
 
 mail: 17853137232@163.com
 
